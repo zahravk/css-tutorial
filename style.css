@@ -1,12 +1,19 @@
-section > b, div > b {
-    color: blueviolet;
+body {
+    margin: 0;
 }
-
-
-
-
-/* Selectors */
-/* https://www.w3schools.com/cssref/css_selectors.asp */
-
-/* Combinators */
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors */
+header {
+    background-color: slateblue;
+    padding: 5px 20px;
+    color: whitesmoke;
+}
+main {
+    padding: 20px 20px;
+    background-color: #eaeaea;
+}
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+section h3 {
+    margin: 10px 0;
+}
