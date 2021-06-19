@@ -1,19 +1,13 @@
-body {
-    margin: 0;
+.box {
+    border: 2px solid;
+    background-color: white;
 }
-header {
-    background-color: slateblue;
-    padding: 5px 20px;
-    color: whitesmoke;
+#classes {
+    color: slateblue;
 }
-main {
-    padding: 20px 20px;
-    background-color: #eaeaea;
+#ids {
+    color: tomato;
 }
-section {
-    padding: 20px;
-    margin-bottom: 20px;
-}
-section h3 {
-    margin: 10px 0;
+#classes > P > b, #ids li > b {
+    color: goldenrod;
 }
