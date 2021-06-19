@@ -1,9 +1,18 @@
-/* section > b, div > b {
+/* h1 {
+    font-size: 120px;
+} */
+
+/* b {
+    color: violet;
+} */
+
+/* section  b {
     color: blueviolet;
 } */
 
-/* h1 {
-    font-size: 120px;
+
+/* section > b, div > b {
+    color: blueviolet;
 } */
 
 
