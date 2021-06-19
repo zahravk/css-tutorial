@@ -1,10 +1,21 @@
-.bar {
-    /* font-size: 8px;
-    width: 20em; */
-    /* width: 400px; */
+.box {
+    /* background-color: white;
+    background-color: #000;
+    background-color: rgba(255,0,0,.5); */
 }
-.progress {
-    /* font-size: 16px;
-    width: 10em; */
-    /* width: 200px; */
-}
+
+
+
+
+/*  COLOR NAMES LIST: 
+    https://www.w3schools.com/cssref/css_colors.asp 
+    */
+
+/*  COLOR TYPES: 
+    https://www.w3schools.com/cssref/css_colors_legal.asp 
+    */
+
+/*  ONLINE COLOR TOOLS: 
+    https://htmlcolorcodes.com/
+    https://coolors.co     
+    */
