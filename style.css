@@ -1,17 +1,10 @@
-/* #inline * {
-    display: inline-block;
-    width: 200px;
-    height: 100px;
+.bar {
+    /* font-size: 8px;
+    width: 20em; */
+    /* width: 400px; */
 }
-
-// width and height are not properties of inline elements
-
-#block * {
-    width: 200px;
-    height: 200px;
-} */
-
-/* More Info about Block vs Inline Elements */
-/* https://www.w3schools.com/html/html_blocks.asp */
-/* More Info about Width & Height */
-/* https://www.w3schools.com/css/css_dimension.asp */
+.progress {
+    /* font-size: 16px;
+    width: 10em; */
+    /* width: 200px; */
+}
