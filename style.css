@@ -1,4 +1,4 @@
-#id {
+/* #id {
     background-color: blueviolet;
 }
 html .class {
@@ -11,8 +11,11 @@ html body {
     background-color: aqua;
 }
 body {
-    background-color: goldenrod;
+    background-color: aqua;
 }
+body {
+    background-color: goldenrod;
+} */
 
 /* More Info about specificity */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity */
