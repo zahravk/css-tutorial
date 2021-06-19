@@ -1,23 +1,14 @@
-/* #id {
-    background-color: blueviolet;
+#inline * {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
 }
-html .class {
-    background-color: tomato;
+#block * {
+    width: 200px;
+    height: 200px;
 }
-.class {
-    background-color: goldenrod;
-}
-html body {
-    background-color: aqua;
-}
-body {
-    background-color: aqua;
-}
-body {
-    background-color: goldenrod;
-} */
 
-/* More Info about specificity */
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity */
-/* Specificity calculator */
-/* http://specificity.keegan.st/ */
+/* More Info about Block vs Inline Elements */
+/* https://www.w3schools.com/html/html_blocks.asp */
+/* More Info about Width & Height */
+/* https://www.w3schools.com/css/css_dimension.asp */
