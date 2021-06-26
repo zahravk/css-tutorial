@@ -1,12 +1,25 @@
-.inline {
-    /* background-color: slateblue; */
-    /* color: white; */
-    /* padding: 2px 5px; */
-    /* display: inline-block; */
-    /* width: 100px; */
-    /* height: 100px; */
+.box {
+    height: 200px;
+    /* width: 200px; */
+    /* float: left; */
 }
-.block {
-    /* border: 2px solid tomato; */
-    /* padding: 5px; */
+.tomato {
+    /* float: left; */
+    /* height: 220px; */
+    /* width: 50% */
+}
+.purple {
+    /* float: left; */
+    /* width: 50%; */
+}
+.gold {
+    /* clear: both; */
+    /* float: left; */
+    /* clear: left; */
+    /* width: 100%; */
+}
+.green {
+    /* float: left; */
+    /* clear: right; */
+    /* width: 100%; */
 }
