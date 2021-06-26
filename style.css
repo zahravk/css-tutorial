@@ -1,23 +1,8 @@
-/* #id {
-    background-color: blueviolet;
+.box {
+    margin: 20px;
 }
-html .class {
-    background-color: tomato;
+.hidden {
+    /* display: none; */
+    /* visibility: hidden; */
+    /* opacity: .5; */
 }
-.class {
-    background-color: goldenrod;
-}
-html body {
-    background-color: aqua;
-}
-body {
-    background-color: aqua;
-}
-body {
-    background-color: goldenrod;
-} */
-
-/* More Info about specificity */
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity */
-/* Specificity calculator */
-/* http://specificity.keegan.st/ */
