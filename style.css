@@ -1,25 +1,32 @@
 .box {
     height: 200px;
-    /* width: 200px; */
+    width: 200px;
     /* float: left; */
 }
 .tomato {
-    /* float: left; */
+    float: left;
     /* height: 220px; */
     /* width: 50% */
 }
 .purple {
     /* float: left; */
+    /* float: right; */
     /* width: 50%; */
+    /* height: 600px; */
 }
 .gold {
-    /* clear: both; */
     /* float: left; */
     /* clear: left; */
+    /* clear: right; */
+    /* clear: both; */
     /* width: 100%; */
 }
 .green {
     /* float: left; */
     /* clear: right; */
     /* width: 100%; */
+}
+
+.clearfix {
+    /* clear:both; */
 }
