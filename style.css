@@ -1,27 +1,55 @@
-.box {
-    height: 200px;
-    width: 200px;
-    /* float: left; */
-}
-.tomato {
-    /* float: left; */
-    /* height: 220px; */
-    /* width: 50% */
-}
-.purple {
-    /* float: right; */
-    /* width: 50%; */
-}
-.gold {
-    /* float: left; */
-    clear: left;
-    /* width: 100%; */
-}
-.green {
-    /* float: left; */
-    /* clear: right; */
-    /* width: 100%; */
-}
-.clearfix {
-    /* clear:both; */
-}
+/*Pseudo Classes*/
+
+/* ul li:first-child a {
+    color: tomato;
+} */
+
+/* ul li:last-child a {
+    color: tomato;
+} */
+
+/* ul li:nth-child(3) a {
+    color: tomato;
+} */
+
+/* ul li:nth-child(even) a {
+    color: tomato;
+} */
+
+/* ul li a:active {
+    color: tomato;
+    font-size: 2em;
+} */
+
+/* ul li a:visited {
+    color: tomato;
+    font-size: 2em;
+} */
+
+/* ul li a:hover {
+    color: tomato;
+    font-size: 2em;
+} */
+
+
+/*Pseudo Elements*/
+/* ul a::before {
+    content: "⇨  ";
+} */
+
+/*Pseudo Elements + Classes*/
+/* ul a:hover::before {
+    content: "⇨  ";
+    color: red;
+    margin-right:20px;
+} */
+
+
+
+/* 
+    Pseudo Elements
+    https://www.w3schools.com/css/css_pseudo_elements.asp
+    
+    Psudo Classes
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+ */
