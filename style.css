@@ -22,3 +22,6 @@
     /* clear: right; */
     /* width: 100%; */
 }
+.clearfix {
+    /* clear:both; */
+}
