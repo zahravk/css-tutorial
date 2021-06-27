@@ -9,24 +9,16 @@
     /* width: 50% */
 }
 .purple {
-    /* float: left; */
     /* float: right; */
     /* width: 50%; */
-    /* height: 600px; */
 }
 .gold {
     /* float: left; */
-    /* clear: left; */
-    /* clear: right; */
-    /* clear: both; */
+    clear: left;
     /* width: 100%; */
 }
 .green {
     /* float: left; */
     /* clear: right; */
     /* width: 100%; */
-}
-
-.clearfix {
-    /* clear:both; */
 }
