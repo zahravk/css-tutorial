@@ -1,25 +1,32 @@
-.box {
-    height: 200px;
-    /* width: 200px; */
-    /* float: left; */
+body {
+    padding-bottom: 100px;
 }
-.tomato {
-    /* float: left; */
-    /* height: 220px; */
-    /* width: 50% */
+
+.first {
+    position: relative;
+    top:-40px;
+    margin-bottom: -40px;
+
 }
-.purple {
-    /* float: left; */
-    /* width: 50%; */
+.second {
 }
-.gold {
-    /* clear: both; */
-    /* float: left; */
-    /* clear: left; */
-    /* width: 100%; */
+.ribbon {
+    /*position placed with respect to first ancestor (root element here)*/
+    /* position: absolute; */
+    /* top:0; */
+    /* right:20px; */
 }
-.green {
-    /* float: left; */
-    /* clear: right; */
-    /* width: 100%; */
+.toplink {
+    /* position: fixed; */
+    /* bottom:20px; */
+    /* right:20px; */
 }
+
+footer {
+    /* position: fixed; */
+    /* bottom:0; */
+}
+
+/*  Extra info on position property
+    https://www.w3schools.com/cssref/pr_class_position.asp
+    */
